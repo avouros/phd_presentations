@@ -3,7 +3,7 @@
 	url = https://github.com/avouros/phd_seminar_series_1
 [submodule "eleni_cluster_1"]
 	path = eleni_cluster_1
-	url = https://github.com/avouros/eleni_cluster_1
+	url = https://github.com/avouros/talk-labgroup-1
 [submodule "eleni_cluster_2"]
 	path = eleni_cluster_2
-	url = https://github.com/avouros/eleni_cluster_2
+	url = https://github.com/avouros/talk-labgroup-1

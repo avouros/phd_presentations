@@ -7,3 +7,6 @@
 [submodule "eleni_cluster_2"]
 	path = eleni_cluster_2
 	url = https://github.com/avouros/talk-labgroup-1
+[submodule "talk-MLRR2019"]
+	path = talk-MLRR2019
+	url = https://github.com/avouros/talk-MLRR2019

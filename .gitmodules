@@ -4,3 +4,9 @@
 [submodule "talk-MLRR2019"]
 	path = talk-MLRR2019
 	url = https://github.com/avouros/talk-MLRR2019
+[submodule "talk-labgroup-1"]
+	path = talk-labgroup-1
+	url = https://github.com/avouros/talk-labgroup-1
+[submodule "talk-labgroup-2"]
+	path = talk-labgroup-2
+	url = https://github.com/avouros/talk-labgroup-2

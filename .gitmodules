@@ -1,9 +1,6 @@
 [submodule "phd_seminar_series_1"]
 	path = phd_seminar_series_1
 	url = https://github.com/avouros/phd_seminar_series_1
-[submodule "eleni_cluster_1"]
-	path = eleni_cluster_1
-	url = https://github.com/avouros/talk-labgroup-1
 [submodule "talk-MLRR2019"]
 	path = talk-MLRR2019
 	url = https://github.com/avouros/talk-MLRR2019
